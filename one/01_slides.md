@@ -47,9 +47,6 @@
 ![good](good.jpg)
 
 !SLIDE center
-![all](all.jpg)
-
-!SLIDE center
 
 ## https://github.com/applicake/doorkeeper
 
