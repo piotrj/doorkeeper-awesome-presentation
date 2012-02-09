@@ -48,3 +48,9 @@
 
 !SLIDE center
 ![all](all.jpg)
+
+!SLIDE center
+
+## https://github.com/applicake/doorkeeper
+
+## http://doorkeeper-provider.herokuapp.com
