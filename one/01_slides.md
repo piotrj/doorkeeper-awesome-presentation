@@ -48,6 +48,8 @@
 
 !SLIDE center
 
+### @felipeelias | @piotrjakubowski
 ## https://github.com/applicake/doorkeeper
 
 ## http://doorkeeper-provider.herokuapp.com
+
